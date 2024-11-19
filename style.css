@@ -1,0 +1,9 @@
+body {
+    background-color: blue;
+}
+p {
+  border: solid;
+  background-color: bisque;
+  border-radius: 20px;
+  margin: 10px;
+}
