@@ -1,9 +1,20 @@
 body {
-    background-color: blue;
+  background-color: #d1f2eb;
+  padding: 20px;
 }
-p {
-  border: solid;
-  background-color: bisque;
+
+h1 {
+  padding: 10px;
+  background-color: white;
   border-radius: 20px;
-  margin: 10px;
+  border: solid #17a589 ;
+}
+
+p {
+  background-color: #27ae60;
+  color: white;
+  border-radius: 20px;
+  height: 20px;
+  width: 200px;
+  padding: 20px;
 }
